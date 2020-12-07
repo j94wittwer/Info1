@@ -1,5 +1,5 @@
 print("Hello foo")
 
 
-def sum_nums(a, b):
-    return a + b
+def print_word(word):
+    print(word)
